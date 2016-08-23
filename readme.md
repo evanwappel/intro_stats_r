@@ -1,8 +1,8 @@
 # R Intro to Stats
 
-## Basic commands to get started in R
+## Claremont Graduate University
 
-## Based on the course "Introduction to R" on the DataCamp website
+## Based on the course "Intro to Statistics with R" on the DataCamp website
 
 ###		1. Variables
 ### 	2. Histograms and Distributions
