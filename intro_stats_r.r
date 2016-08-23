@@ -18,3 +18,10 @@ factor_temperature_vector <- factor(temperature_vector, order = TRUE,
                                     levels = c("Low", "Medium", "High"))
 # Print the result to the console
 factor_temperature_vector
+
+"Interval and ratio variables in R"
+# Create an interval variable called longitudes
+longitudes <- c(10, 20, 30, 40)
+# Create a ratio variable called chronos
+chronos <- c(10.60, 10.12, 9.58, 11.1)
+
